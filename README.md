@@ -120,7 +120,7 @@ It's important the console that you run OpenCode in is looking at your project d
 If you installed OpenCode with admin rights, you should simply be able to type `opencode` at the command line
 - or `!opencode` if using the Python Console in Celbridge
 
-However, if you didn't have admin rioghts (e.g. using a university PC) then to run OpenCode you'll need to give it the path to the installed `opencode.exe` executable file:
+However, if you didn't have admin rights (e.g. using a university PC) then to run OpenCode you'll need to give it the path to the installed `opencode.exe` executable file:
 - `c:\Users\<yourUsername>\.opencode\bin\opencode.exe`
 
 
