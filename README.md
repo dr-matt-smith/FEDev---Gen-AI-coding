@@ -13,7 +13,7 @@ These are the steps to follow to work with OpenCode AI and a GitHub Student Deve
     - you must use your TU Dublin university email address, to get the free student&nbsp;benefits
 
 This assumes you are working on an MS Windows 11 computer
--the steps here are for computers with student accounts (i.e. no administrator privilege)
+-the steps here work for lab computers with student accounts (i.e. no administrator privilege)
 
 
 ## Step 0: How to download and install the Celbridge application
