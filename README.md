@@ -182,7 +182,7 @@ please record a transcript of our interactions in Markdown format in file "sessi
 
 ![OpenCode choose model](/images/51_transcript_file.png)
 
-You can save subsequence sessions in files `session1.log` and so on... in case you don't get all your work completed in one session...
+You can save subsequent sessions in files `session2.log`. `session3.log` and so on... in case you don't get all your work completed in one session...
 
 
 ## Step 8: Choose PLAN or BUILD and work away with OpenCode
