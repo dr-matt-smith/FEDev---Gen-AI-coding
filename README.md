@@ -143,7 +143,7 @@ Then choose the GitHub CoPilot option.
 
 ![OpenCode connect](/images/31_connect_GitHub_Copilot.png)
 
-This will display an 8-digiti special code, and a web link to GitHub
+This will display an 8-digit special code, and a web link to GitHub
 
 ![OpenCode connect code](/images/32_github_connect_code.png)
 
