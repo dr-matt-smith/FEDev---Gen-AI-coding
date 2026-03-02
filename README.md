@@ -1,3 +1,6 @@
+[back to assessments](https://github.com/dr-matt-smith/FEDev---assessment-samples-and-walkthroughs?tab=readme-ov-file) <<< 
+
+
 # FEDev---Gen-AI-coding
 
 These are the steps to follow to work with OpenCode AI and a GitHub Student Developer account
